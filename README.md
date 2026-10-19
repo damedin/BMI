@@ -1,3 +1,7 @@
+# Publication Status and Data Availability
+
+The scientific manuscript describing the development, validation, and application of the Bacterial Microbial Index (BMI) is currently undergoing peer review. To ensure consistency between the published research and the resources provided in this repository, the complete R scripts, curated DB_BMI database, example datasets, documentation, and supplementary materials will be made publicly available here following publication of the article. This repository will serve as the official platform for accessing the BMI framework, supporting reproducibility, transparency, and future applications in microbial water-quality assessment and environmental monitoring.
+
 # BMI
 Bacterial Microbial Index (BMI): An R-based framework for assessing the relative representation of potentially health-relevant bacterial genera in aquatic environments using 16S rRNA and shotgun metagenomic sequencing data.
 
